@@ -6,3 +6,6 @@ Entrega de desafios de la materia
 
 
 [Desafio 2](Desafio_2.ipynb)
+
+
+[Desafio 3](Desafio_3.ipynb)
